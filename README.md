@@ -19,7 +19,7 @@ This is a solution to the [Blog Preview Card on Frontend Mentor](https://www.fro
 
 ### Links
 
-- Live Site URL: [Hosted with Github Pages]()
+- Live Site URL: [Hosted with Github Pages](https://georgevalentin.github.io/Blog_Preview_Card/)
 
 ## My process
 
