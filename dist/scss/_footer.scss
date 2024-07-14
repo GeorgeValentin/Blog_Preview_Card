@@ -10,3 +10,9 @@
     font-weight: bold;
   }
 }
+
+@media (max-width: 375px) {
+  .footer-container {
+    font-size: 0.8rem;
+  }
+}
