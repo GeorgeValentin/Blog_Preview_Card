@@ -1,0 +1,12 @@
+.footer-container {
+  position: absolute;
+  bottom: 0;
+  color: $black;
+  padding-bottom: 1rem;
+  font-size: 1.25rem;
+
+  a {
+    text-decoration: none;
+    font-weight: bold;
+  }
+}
