@@ -1,5 +1,5 @@
 .blog-preview-card {
-  width: 28%;
+  width: 32%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -18,7 +18,7 @@
     height: 69%;
     border-radius: 1rem;
     border: 1.5px solid black;
-    padding: 2rem;
+    padding: 2rem 2rem 0.5rem;
     background-color: $white;
     box-shadow: 10px 10px;
 
@@ -91,7 +91,7 @@
         justify-content: start;
         align-items: center;
         gap: 1rem;
-        margin: 1.5rem auto;
+        margin: 1.5rem auto 0.5rem;
 
         img {
           width: 3rem;
